@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "project": "himanshibishnoi/repo-3",
+  "signer": "himanshibishnoi",
+  "created_at": "2026-11-01T04:45:00Z",
+  "description": "WoT Trust Anchor: Cumulative vouch repository for trusted contributors",
+  "vouches": [
+    "alice-dev"
+  ],
+  "denouncements": [],
+  "trusted_peers": [],
+  "signature": "sha256:2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3"
+}
